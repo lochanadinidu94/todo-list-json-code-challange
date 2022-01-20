@@ -1,0 +1,5 @@
+Run Json Server First
+npx json-server --watch data/db.json --port 8000
+
+Then Run App
+nmp start
